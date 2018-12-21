@@ -1,0 +1,21 @@
+[remap]
+
+importer="wav"
+type="AudioStreamSample"
+path="res://.import/pokeball-throw.wav-f1e6dba58e3ab772666f5550e1fd880c.sample"
+
+[deps]
+
+source_file="res://audio/pokeball-throw.wav"
+dest_files=[ "res://.import/pokeball-throw.wav-f1e6dba58e3ab772666f5550e1fd880c.sample" ]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=true
+edit/normalize=true
+edit/loop=false
+compress/mode=0
